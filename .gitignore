@@ -1,4 +1,16 @@
-firmware/build/
-firmware/managed_components/
+# macOS
 .DS_Store
 *.bak
+
+# ESP-IDF build output and local config (sdkconfig.defaults is the source of truth)
+firmware/build/
+firmware/sdkconfig
+firmware/sdkconfig.old
+firmware/dependencies.lock
+
+# Fetched by the IDF component manager from idf_component.yml
+firmware/managed_components/
+
+# Workspace notes, not part of the public tree
+DESIGN.md
+PLAN.md
