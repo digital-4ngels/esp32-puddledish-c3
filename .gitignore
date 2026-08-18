@@ -1,0 +1,4 @@
+firmware/build/
+firmware/managed_components/
+.DS_Store
+*.bak
