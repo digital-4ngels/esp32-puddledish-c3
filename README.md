@@ -2,7 +2,7 @@
 
 <img src="assets/hero.gif" alt="Puddle Dish hero">
 
-A 3D particle fluid living inside a [Waveshare ESP32-S3-Touch-AMOLED-1.75-B](https://www.waveshare.com/esp32-s3-touch-amoled-1.75.htm) — round, 466×466. The screen is the front glass of a shallow dish. Tilt the board and the liquid pours to the rim; shake it and it sprays white.
+A 3D particle fluid living inside a [Waveshare ESP32-S3-Touch-AMOLED-1.75-B](https://www.waveshare.com/esp32-s3-touch-amoled-1.75.htm) — round, 466×466. The screen is the front glass of a shallow dish. Tilt the board and the liquid pours to the rim; shake it and the spray brightens.
 
 **Puddle Dish is built on [FluidBox](https://github.com/V4C38/esp32-fluidbox)** by [V4C38](https://github.com/V4C38) ([Johannes Tscharn](https://x.com/JohannesTscharn)). FluidBox is the original: Clavet double-density solver, band renderer, IMU, PWR reset — written for the rectangular 1.8" Waveshare board. This repo ports that work onto the round 1.75-B. Do not flash the FluidBox 1.8 binary here.
 

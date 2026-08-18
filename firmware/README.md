@@ -54,7 +54,7 @@ The ESP32-S3 USB peripheral is wired to the Type-C port. Console is **USB serial
 
 ## What you should see
 
-900 particles pool at the rim. Tilt pours. Shake sprays white. Short **PWR** reseeds a puddle. Long PWR still powers off in hardware.
+900 particles pool at the rim. Tilt pours. Shake brightens the spray. Short **PWR** reseeds a puddle. Long PWR still powers off in hardware.
 
 ## Layout
 
