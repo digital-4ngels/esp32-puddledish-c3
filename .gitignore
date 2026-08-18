@@ -14,3 +14,8 @@ firmware/managed_components/
 # Workspace notes, not part of the public tree
 DESIGN.md
 PLAN.md
+
+# Local host preview / capture
+assets/_preview/
+tools/preview/build/
+tools/preview/demo.exe
